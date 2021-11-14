@@ -1,0 +1,6 @@
+print("Welcome to death note")
+name = input("what is your name?\n")
+print("Dear " + name + ", I'm Ryuk and nice to meet you.\n\n" )
+print("What can i do on a death note?")
+print("Dear "+ name + " you can kill people and choose how they will die")
+print("cool")
